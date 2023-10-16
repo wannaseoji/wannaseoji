@@ -15,7 +15,7 @@
 
 <h2>Tech Stack :books:</h2>
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus">
-<img src="https://img.shields.io/badge/Opencv-5C3EE8?logo=OpenCv"><br>
+<img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
 <img src="https://img.shields.io/badge/Unity-000000?logo=unity">
 <img src="https://img.shields.io/badge/UnrealEngine5-0E1128?logo=unrealengine">
 
