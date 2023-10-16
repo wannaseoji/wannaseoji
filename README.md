@@ -14,10 +14,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wannaseoji)](https://solved.ac/wannaseoji/)
 
 <h2>Tech Stack :books:</h2>
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
-<img src="https://img.shields.io/badge/Unity-000000?logo=unity">
-<img src="https://img.shields.io/badge/UnrealEngine5-0E1128?logo=unrealengine">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
 <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white">
 
 <h2>Used at Least Once :pencil2:</h2>
