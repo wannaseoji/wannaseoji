@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
 <img src="https://img.shields.io/badge/Unity-000000?logo=unity">
 <img src="https://img.shields.io/badge/UnrealEngine5-0E1128?logo=unrealengine">
+<img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white">
 
 <h2>Used at Least Once :pencil2:</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"> 
