@@ -1,13 +1,6 @@
 ## 안녕하세요 서지완입니다.
 <div align="center">
 <br><br>
-
-<h2>My, GitHub :cloud:</h2>
-
-[![wannaseoji's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannaseoji&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannaseoji&layout=compact)
-<br><br>
-
 <h2>Baekjoon Rank :seedling:</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wannaseoji)](https://solved.ac/wannaseoji/)
