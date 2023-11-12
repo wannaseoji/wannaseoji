@@ -1,4 +1,4 @@
-## Hi, I’m Wannaseoji 👋 
+## 안녕하세요 서지완입니다.
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wannaseoji%2Fhit-counter&count_bg=%239A97EB&title_bg=%23787878&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
