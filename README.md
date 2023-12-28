@@ -1,9 +1,7 @@
 ## 안녕하세요 서지완입니다.
 <div align="center">
 <br><br>
-<h2>Baekjoon Rank :seedling:</h2>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wannaseoji)](https://solved.ac/wannaseoji/)
 
 <h2>Tech Stack :books:</h2>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
