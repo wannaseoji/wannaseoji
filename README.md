@@ -29,18 +29,24 @@
 </div>
 </div>
 
-<h2>## Award :trophy:</h2>
+<h2> Award :trophy:</h2>
+<div align="center">
 * 2018 한성대학교 삶과 꿈 독서토론대회 (사피엔스데이)
   * 팀 HOT, 장려상 수상
 * 2022 한성대학교 캡스톤 디자인 
   * 팀 큐티, 가상의료 시뮬레이션, 최우수상
 * 2023 메타버스 개발자 경진대회
   * 팀 LET'S GO BOOGIE, 메타트윈 데이터를 활용한 재난경보 민방위 교육, 지정과제 우수상 [(주)모빌테크 대표상] 수상
-<h2>## Paper Published :pushpin:</h2>
+ </div>
+<h2> Paper Published :pushpin:</h2>
+<div align="center">
 * [2023 의료영상을 위한 위치 기반 역학의 병렬화 연구 (KCI)](https://github.com/wannaseoji/wannaseoji/files/12788982/_._._._.pdf)
+</div>
 
-<h2>## Now :</h2>
+<h2> Now :</h2>
+  <div align="center">
   * SSAFY 11th 과정을 진행중입니다.
   * PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구를 진행하고 있습니다.
       * 2023년 9월 - 현재2023년 9월 - 현재
       * Position Based Dynamics의 프레임워크를 계승하여 GPU 병렬처리를 이용한 새로운 Constraint 연구를 진행하고 있습니다.
+  </div>
