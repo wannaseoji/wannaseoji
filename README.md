@@ -48,14 +48,13 @@
 
 <h2> Now :</h2>
   <div align="center">
-    <ul>
-      <li>
-  * SSAFY 11th 과정을 진행중입니다.
-      </li>
-      <li>
-   <li>* PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구를 진행하고 있습니다. </li>
-      * 2023년 9월 - 현재2023년 9월 - 현재
-      * Position Based Dynamics의 프레임워크를 계승하여 GPU 병렬처리를 이용한 새로운 Constraint 연구를 진행하고 있습니다. 
-         </li>
-    </ul>
+  
+     
+  <li> SSAFY 11th 과정을 진행중입니다.</li>
+      
+     
+   <li> PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구를 진행하고 있습니다.<br>
+       2023년 9월 - 현재2023년 9월 - 현재<br> </li>
+  
+
   </div>
