@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
 <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 
 <h2>Used at Least Once :pencil2:</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"> 
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <br><br>
@@ -43,7 +44,7 @@
  </div>
 <h2> Paper Published :pushpin:</h2>
 <div align="center">
-* [2023 의료영상을 위한 위치 기반 역학의 병렬화 연구 (KCI)](https://github.com/wannaseoji/wannaseoji/files/12788982/_._._._.pdf)
+* 의료영상을 위한 위치 기반 역학의 병렬화 연구 [다운로드](https://github.com/wannaseoji/wannaseoji/files/12788982/_._._._.pdf)
 </div>
 
 <h2> Now :</h2>
@@ -53,7 +54,7 @@
   <li> SSAFY 11th 과정을 진행중입니다.</li>
       
      
-   <li> PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구를 진행하고 있습니다.<br>
+   <li> [PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구] <br>PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구를 진행하고 있습니다.<br>
        2023년 9월 - 현재2023년 9월 - 현재<br> </li>
   
 
