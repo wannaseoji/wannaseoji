@@ -21,14 +21,9 @@
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <br><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <br>
 
-<h2>Contact :door:</h2>
-<div align="center">
-  <a href="https://wannadev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link="https://wannadev.tistory.com/"/></a>&nbsp&nbsp
-  <a href="mailto:wannaseoji@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wannaseoji@naver.com"/></a>
-</div>
-</div>
+
 
 <h2> Award :trophy:</h2>
 <div align="center">
@@ -59,3 +54,10 @@
   
 
   </div>
+
+  <h2>Contact :door:</h2>
+<div align="center">
+  <a href="https://wannadev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link="https://wannadev.tistory.com/"/></a>&nbsp&nbsp
+  <a href="mailto:wannaseoji@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wannaseoji@naver.com"/></a>
+</div>
+</div>
