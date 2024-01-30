@@ -50,7 +50,7 @@
       
      
    <li> [PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구] <br>PBD를 활용한 의료영상 데이터의 Skin Tension Constraint 연구를 진행하고 있습니다.<br>
-       2023년 9월 - 현재2023년 9월 - 현재<br> </li>
+       2023년 9월 - 현재<br> </li>
   
 
   </div>
